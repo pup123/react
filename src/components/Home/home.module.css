@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(181, 189, 137);
+}
+.container{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+
+}
+/* .m{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        margin-top: 80px;
+        color: rgb(7, 34, 65);
+} */
+.img{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    justify-content: center;
+    border-radius: 20%;
+    width: 100%;
+}
+.pa{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ .pa span { 
+     padding:0 10px; 
+ }
